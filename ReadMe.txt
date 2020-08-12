@@ -1,0 +1,1 @@
+Answers to the questions of functional programming in python. Feel free to contact me for the questions and more information.
